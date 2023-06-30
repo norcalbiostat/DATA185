@@ -2,18 +2,52 @@ project:
   type: website
 
 website:
-  title: "DATA185"
+  page-navigation: true
+  title: "Data Science for Social Good"
+  description: "Homepage for MATH 185 Fall 23"
+  site-url: "https://norcalbiostat.github.io/DATA185"
+  
+  page-footer:
+    #background: light
+    left: "This site is built with :heart:, {{< fa brands r-project >}} and [Quarto](https://quarto.org/) by [Robin Donatello](www.norcalbiostat.com)."
+   
   navbar:
+    pinned: true
+    background: "#FF8C00"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Learn
+        href: notes.qmd
+      - text: Practice
+        href: lab.qmd
+      - text: Apply
+        href: hw.qmd
+        
+    
+    right: 
+      - syllabus.qmd
+      - text: About Dr. D
+        menu:
+        - text: My Website
+          href: http://www.norcalbiostat.com/
+        - text: Github
+          href: https://github.com/norcalbiostat
+        - text: Meet with me
+          href: https://dr-donatello.youcanbook.me
 
+from: markdown+emoji
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    highlight-style: a11y
+    theme: 
+      light: flatly
+      dark: darkly
+    highlight: pygments
     toc: true
+    code-copy: true
+    code-overflow: scroll
 
 
-
+execute:
+  freeze: auto # re-render only when source changes
+  echo: false
+  warning: false

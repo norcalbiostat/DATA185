@@ -1,0 +1,26 @@
+author: Robin Donatello
+
+instructor:
+  name: Dr. Robin Donatello
+  name_no_title: Robin Donatello
+  email: rdonatello@csuchico.edu
+  url: "https://www.norcalbiostat.com"
+  github: norcalbiostat
+  office: "Holt Hall 202"
+  contact_policy: >-
+    Discord or email are the best way to get in contact with me. I will try to respond within 24 hours.  
+  appointment_url: https://dr-donatello.youcanbook.me/
+  
+course:
+  number: "MATH 185"
+  semester: "Fall 2023"
+  days: "2 hrs lecture, 2 hrs lab"
+  time: "MW 12 - 12:50PM Holt 171"
+  location: "Th 12 - 1:50PM LANG 300"
+  github: "https://github.com/norcalbiostat/math185"
+  copyright_year: "2023"
+  discord: "link"
+  moi: "In Person"
+  pre_req: "GE B4 Ready or ALEKS PPL proctored assessment 46+ required."
+  oh: "TBD"
+

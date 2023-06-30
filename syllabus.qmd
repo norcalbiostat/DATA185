@@ -1,0 +1,198 @@
+---
+title: "MATH 185 Syllabus"
+format: html
+---
+
+# Course Information
+
+_Data are not neutral, nor are the algorithms that control how the data that governs our lives are used. Interpretations and recommendations made using data are subjective. This course introduces students how to start harnessing the power of data to intelligently cope with the requirements of citizenship, employment, and family to be prepared for a healthy, happy and productive life._
+
+_Students will practice collecting and wrangling data into a usable form, visualizing large data sets to discover patterns, representing data in a meaningful way, exploring varying interpretations of the data and results, and discussing potentials for misuse and abuse. This course promotes critical reflection on the ethical, social, cultural, and political dimensions of data as well as providing direct hands on experience with both spreadsheets, and the programming language R._
+
+_Students from all majors are welcome! **No prior programming experience is expected**, however basic ability to use a computer is needed. Additional help is available for students needing extra support with either/both computers or math._
+
+
+## Instructor
+
+* **Name & pronouns:** Dr. Robin Donatello  (Dr. D, she/her)
+* **Website:** [https://www.norcalbiostat.com/](https://www.norcalbiostat.com/)
+* **Office Location:** Holt 202
+* **E-mail:** rdonatello@csuchico.edu 
+* **Best Contact Method:** Discord
+* **Student Office Hours:** Times TBD
+
+
+## Logistics 
+* **Mode of Instruction:** In person
+* **Meeting Pattern:** MW: 12-12:50am HOLT 171, Thu 12-1:50 LANG 300
+* **Prerequisites:** GE B4 Ready or ALEKS PPL proctored assessment 46+ required.
+
+## Required accounts and materials
+
+* **Class Website:** 
+* **Laptop & Internet**: Expect to bring your laptop to class every day. 
+* **Data Analysis software**: R Studio Cloud. 
+* **Textbooks:** None. I will provide all readings, videos and lecture notes. 
+* **Canvas**: Module overview, assignments, gradebook, calendar. 
+* **Discord**: A free discussion platform with a lot of collaborative functionality. 
+* **Google Drive:** You will be added to a class folder using your campus email. 
+
+Instructions for signing up & obtaining materials are in HW 0. Contact me ASAP if any of this (reliable laptop, internet or cost of Rstudio) poses a problem or concern for you. I can't assist if you don't communicate your needs with me. 
+
+# Schedule of Topics
+
+* first
+* second
+* third
+
+
+# Course Learning Outcomes {#co}
+
+By the end of the course, students will be able to...
+
+1.  Explain how the method of data collection, the involvement of stakeholders, and decisions made during data processing can have downstream impacts.
+    a. Collect, record and organize data in spreadsheets.   
+    b. Import and process (wrangle) data using the statistical programming language R.  
+    c. Assess data integrity, identify potential privacy issues, and decide what questions can and cannot be answered with the data.   
+    d. Identify stakeholder involvement at each stage in the data lifecycle.  
+    e. Create a reproducible data processing pipeline that explains all data collection and processing decisions in a literate and transparent manner.
+2.  Interpret and draw inferences from Analytical models while taking into account the socio-political-ethical-economic implications of conclusions being made.
+    a. De-mystify Analytical models using words, numbers, graphs, symbols, and equations.   
+    b. Explain the relationship between Optimization and Analytics.   
+    c. Identify ways in which Data Analytics can contribute, or harm, the cultural and economic well being of diverse societies in local, national, and global scopes.   
+    d. Describe an algorithm as a mathematical model, explain why they are created and how they are used, and provide examples of what it means to encode bias into an algorithm.  
+    e. Critically examine and critique data used in reports, news articles and advertisements. 
+3.  Use Data Analytical tools and processes to uncover insights in a large data set.
+    * This objective will be met by you creating a literate, reproducible data analysis report that combines words, code, graphs, and equations to tell a story.
+    * This is where you get to put all the topics you learn and practice in the class into a project of your own design. 
+    
+
+
+# Grading
+
+Your final grade will be displayed as a running total in Canvas.  I use a standard grade cutoff of 100-90%: A, 89-80%: B, 79-70%: C, 69-60%: D, 0-59%: F  
+
+> Automatic half credit will be applied to any assignment submitted after the solutions are posted. 
+
+
+There are 4 phases of learning for each topic. First we engage with the **learning** material where you are asked to *read*, *listen* and *do* activities related to the topic. Labs provide guided and unguided **practice** working with the topics and skills. You will **apply** these new knowledges and skills to a new area to build a semester long project, and lastly there are regular **assessments** to check on the learning progress. 
+
+1.  **Learning** (25% of grade): 
+    - Attendance & Class Discussion: In class time will be spent answering questions, discussing topics in further detail, or engaging in a learning activity. 
+        - (50%) Attended & participated in at least 30% of daily activities
+        - (80%) Attended & participated in at least 50% of daily activities
+        - (100%) Attended & participated in at least 80% of daily activities
+    - Learning Journal: For writing reflections on readings or discussion topics. There will be 4 check-ins where I will review and may make comments. Entries are scored for completeness and quality. 
+        - (0%) Noting submitted. 
+        - (50%) Below satisfactory; Less than half assigned entries are present. What is submitted is minimalistic. 
+        - (70%) OK, but needs work; Missing around a half of required entries, generally hard to find your answers or figure out what you're saying. Little to no effort put into responses. 
+        - (100%) Proficient; Mostly complete entries. Relatively easy to find and read responses. Some misspellings may be present and some responses may not quite make sense. 
+        - (125%) Exceptional work; Super clear responses, well organized, thoughtful answers. Spell checked & reviewed for reading flow/comprehension. Was pleasant to read. 
+    - Peer Reviews: Helping others is a strong method of reinforcing your own understanding. This will be graded on the quantity and quality of your review.  
+    - Getting Help: You must visit me at least once during student office hours AND go to Community Coding at least once.
+
+2.  **Practice** (25% of grade): Labs will be submitted to Google Drive as a PDF.  This lets you self-assess where you are at relative to your peers. See the statement below on collaboration vs cheating. 
+    - Labs are scored on timeliness, completion and correctness. 
+        - (10%) for turning it in on time
+        - (30%) for a complete assignment
+        - (60%) 1-2 questions will be chosen (not at random) to be graded for correctness. 
+    - If you do not receive the score that you wanted to get you can resubmit the assignment up to a week past when it was returned to you for a regrade. 
+
+
+3.  **Application** (25% of grade): You will work with a teammate throughout the semester to create a data exploration project of your shared topic of interest.
+    * There are several milestones that you will complete throughout the semester that build on each other towards a final project. 
+    * This is a peer reviewed activity.
+    * You will present your final work to the class as a presentation.
+    * Individual scores may be modified by me depending on the level of visible participation between team members. Talk to me if an imbalance in effort becomes a concern for you. 
+    * Scoring will be done in Canvas using a rubric, but feedback will be public on the Google slides. This rubric will be included in the instructions so you can see what criteria I will be using for each milestone before you submit for scoring.
+    
+4.  **Assessment** (25% of grade): Regular (near weekly) quizzes administered online through Google Forms are used to assess your learning and to help me see what topics need clarification.
+    - Prior to class you will self-assess your learning by taking the Individual quiz on your own. All questions except text responses are automatically graded. 
+    - In the following class you work with a group to clarify and discuss commonly missed questions and take a second, group quiz.
+    - Your personal score is your individual quiz + group quiz scores.
+    - Lowest 2 quiz scores will be dropped.
+
+
+
+----
+
+# Class Policies and statements
+
+## Everyone is welcome here
+
+It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
+
+I would like to create a learning environment that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, etc.) To help accomplish this:
+
+-  Let me know if you have a name and/or set of pronouns that differ from those that appear in your official Chico records. I make it a point to call on people by name, so please make sure that I know what you want to be called. 
+        - I also want to try to pronounce your name as accurately as possible. The more you help and correct me the better I can do to honor your name. 
+-   If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. I want to be a resource for you. Remember that you can also submit anonymous feedback using the feedback button on the schedule and help pages of the website (which will lead to me making a general announcement to the class, if necessary to address your concerns).
+-   If you prefer to speak with someone outside of the course, the Office of Diversity and Inclusion is here to assist. Their number is 530-898-4764, and email [diversityoffice\@csuchico.edu](mailto:diversityoffice@csuchico.edu){.email}
+-   I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. (Again, anonymous feedback is always an option).
+
+*Adapted from [Monica Linden at Brown University](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements)*.
+
+Furthermore, I would like to acknowledge that Chico State stands on lands that were originally occupied by the first people of this area, the Mechoopda. I recognize their distinctive spiritual relationship with this land and the waters that run through campus. I am humbled that our campus resides upon sacred lands that once sustained the Mechoopda people for centuries.
+
+
+## Attendance
+
+All students are expected to attend class in person each session. There is no specific plan for habitual synchronous hybrid zoom session, but I recognize things come up. 
+
+Talk to me ahead of time if you need to miss a class for a planned reason. In the event of an unplanned reason, DM me in Discord and let's see if we can zoom you in for that day. 
+
+* If you are not feeling well or are experiencing COVID symptoms **DO NOT COME TO CLASS**. DM me in Discord we'll make a backup plan. 
+
+## Collaboration
+
+Collaboration on homework and labs is encouraged. People learn better when they have someone else to talk through concepts with. Collaboration on individual quizzes is not allowed.
+
+### Use of ChatGPT in this course
+
+
+
+----
+
+# Student Resources
+
+## Chico State Basic Needs Project
+
+The **Hungry Wildcat Food Pantry** provides supplemental food, fresh produce, CalFresh application assistance and basic needs referral services for students experiencing food and housing insecurity.
+
+All students are welcomed to visit the Pantry located in the Student Service Center 196, open Monday-Friday
+
+Please visit the Chico State Basic Needs website [http://www.csuchico.edu/basic-needs](http://www.csuchico.edu/basic-needs) for more information.
+
+## Wildcat Computing Support
+
+Everyone's journey through education is different and varied. Part of your journey is learning to engage and leverage academic technology. It is extremely important to your success, and at the same time requires patience to learn how it can benefit you. While learning various technologies, they change and adapt quickly. Wildcat Computing Support is curated by students to better support you and enhance your experiences with technology. We provide information to support your success in using academic technology in and out of the classroom.
+
+[https://www.csuchico.edu/wcs/](https://www.csuchico.edu/wcs/)
+
+
+## Americans with Disabilities Act
+
+If you need course adaptations or accommodations because of a disability or chronic illness, or if you need to make special arrangements in case the building must be evacuated, please make an appointment with me as soon as possible, or see me during office hours. Please also contact Accessibility Resource Center (ARC) as they are the designated department responsible for approving and coordinating reasonable accommodations and services for students with disabilities. ARC will help you understand your rights and responsibilities under the Americans with Disabilities Act and provide you further assistance with requesting and arranging accommodations. We try our best to ensure equal access to materials in accessible formats. Reach out to your me if there is some aspect of the course materials that are inaccessible to you.
+
+Accessibility Resource Center 530-898-5959 Student Services Center 170 [arcdept\@csuchico.edu](mailto:arcdept@csuchico.edu){.email} [http://www.csuchico.edu/arc](https://www.csuchico.edu/arc/)
+
+----
+
+# University Policies
+
+## Adding and Dropping the course
+
+You are responsible for understanding the policies and procedures about add/drops, academic renewal, etc., found in the [CSU Chico University Catalog](http://www.csuchico.edu/catalog/). You should be aware of the new deadlines and penalties for adding and dropping classes.
+
+## Confidentiality and Mandatory Reoprting
+
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a your instructor. I am required to share information regarding sexual misconduct with the University. Students may speak to someone confidentially by contacting the Counseling and Wellness Center (898-6345) or Safe Place (898-3030). Information on campus reporting obligations and other Title IX related resources are available here: www.csuchico.edu/title-ix.
+
+
+## Academic Integrity
+
+Academic integrity is defined as “a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility”. From these values flow principles of behavior that enable academic communities to translate ideals to action. Academic integrity is expected and required. No forms of cheating or plagiarism will be tolerated. Please see your student handbook at https://www.csuchico.edu/scrr/integrity.shtml if you have questions about the meaning of these terms or the consequences of violating academic integrity.
+
+-----
+
+_Last updated: `r format(Sys.time(), "%a %b %d %Y %X")`_
