@@ -1,12 +1,14 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  page-navigation: true
   title: "Data Science for Social Good"
   description: "Homepage for MATH 185 Fall 23"
   site-url: "https://norcalbiostat.github.io/DATA185"
-  
+  page-navigation: true
+
+    
   page-footer:
     #background: light
     left: "This site is built with :heart:, {{< fa brands r-project >}} and [Quarto](https://quarto.org/) by [Robin Donatello](www.norcalbiostat.com)."
@@ -16,23 +18,27 @@ website:
     background: "#FF8C00"
     left:
       - text: Learn
-        href: notes.qmd
+        href: modules.qmd
       - text: Practice
         href: lab.qmd
       - text: Apply
         href: hw.qmd
         
-    
     right: 
-      - syllabus.qmd
-      - text: About Dr. D
-        menu:
-        - text: My Website
-          href: http://www.norcalbiostat.com/
-        - text: Github
-          href: https://github.com/norcalbiostat
-        - text: Meet with me
-          href: https://dr-donatello.youcanbook.me
+      - text: Syllabus
+        href: syllabus.qmd
+
+sidebar:
+    - id: get-started
+      title: "Get Started"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - docs/get-started/index.qmd
+        - text: "Tutorial: Hello, Quarto"
+          href: docs/get-started/hello/
+
 
 from: markdown+emoji
 format:
@@ -44,8 +50,11 @@ format:
     highlight: pygments
     toc: true
     code-copy: true
-    code-overflow: scroll
-
+    code-overflow: wrap
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
 
 execute:
   freeze: auto # re-render only when source changes
