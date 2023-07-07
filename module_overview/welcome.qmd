@@ -1,0 +1,60 @@
+---
+title: "Welcome"
+date: 08/21/23
+format: html
+image: welcome_img.jpg
+---
+
+We start our adventure by meeting our learning community, discussing what we going to learn, why should we learn it, and the logistics of how are we going to learn it. We will make sure everyone can use the learning materials, and that it's clear what is required to succeed in this class. 
+
+:::{.callout-tip}
+# Learning Objectives
+
+By the end of this module, learners will be able to:
+
+
+
+* thing 1
+* thing 2
+
+:::
+	
+:::{.callout-note}
+# Essential Questions
+
+Think about these questions as you engage with the materials in this module. Be prepared to share your response in class. 
+
+
+* thing 1
+* thing 2
+
+:::
+
+
+
+----
+
+# Learning Activities
+
+## Read
+
+
+## Watch/Listen
+
+
+## Practice
+
+
+## Apply 
+
+
+## Assess
+
+
+## Reflect
+
+
+
+-----
+
+_Last updated: `r format(Sys.time(), "%a %b %d %Y %X")`_

@@ -17,28 +17,37 @@ website:
     pinned: true
     background: "#FF8C00"
     left:
+      - text: Modules
+        href: module_list.qmd
       - text: Learn
-        href: modules.qmd
       - text: Practice
-        href: lab.qmd
       - text: Apply
-        href: hw.qmd
+
         
     right: 
       - text: Syllabus
         href: syllabus.qmd
 
-sidebar:
-    - id: get-started
-      title: "Get Started"
+  sidebar:
+    - id: modules
+      title: "Modules"
       style: "floating"
-      collapse-level: 2
+      collapse-level: 1
       align: left
       contents:
-        - docs/get-started/index.qmd
-        - text: "Tutorial: Hello, Quarto"
-          href: docs/get-started/hello/
-
+        - text: "Welcome"
+          href: module_overview/welcome.qmd
+          
+    - id: learn
+      title: "Learn"
+      
+    - id: Practice
+      title: "Practice"
+      
+    - id: Apply
+      title: "Apply"
+      
+      
 
 from: markdown+emoji
 format:
