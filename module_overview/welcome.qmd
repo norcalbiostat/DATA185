@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Getting Started"
 date: 08/21/23
 format: html
 image: welcome_img.jpg
@@ -10,23 +10,22 @@ We start our adventure by meeting our learning community, discussing what we goi
 :::{.callout-tip}
 # Learning Objectives
 
-By the end of this module, learners will be able to:
+_By the end of this module, learners will be able to:_
 
-
-
-* thing 1
-* thing 2
+* [1] Start to form community of learners. 
+* [2] Navigate the course materials, identify and understand the policies & code of conduct
+* [3] Give an example of the role of data in your life. [CO2e]
+* [4] Create a file organizational strategy, and install software. [CO1e]
 
 :::
 	
 :::{.callout-note}
 # Essential Questions
 
-Think about these questions as you engage with the materials in this module. Be prepared to share your response in class. 
+_Think about these questions as you engage with the materials in this module. Be prepared to share your responses in class._
 
+Who are we in this class? What do we have in common? What ideas or perspectives do each of us bring? How can you be successful in this class? How does data influence our lives?
 
-* thing 1
-* thing 2
 
 :::
 
@@ -37,6 +36,8 @@ Think about these questions as you engage with the materials in this module. Be 
 # Learning Activities
 
 ## Read
+
+* [Welcome slides](../notes/cn00-welcome.html)
 
 
 ## Watch/Listen

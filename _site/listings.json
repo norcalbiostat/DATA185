@@ -2,7 +2,13 @@
   {
     "listing": "/module_list.html",
     "items": [
-      "/modules/welcome.html"
+      "/module_overview/welcome.html"
+    ]
+  },
+  {
+    "listing": "/notes_list.html",
+    "items": [
+      "/notes/cn00-welcome.html"
     ]
   }
 ]

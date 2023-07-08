@@ -1,0 +1,14 @@
+---
+title: "Course Notes"
+listing:
+  contents: notes
+  type: table
+  fields: [date, title, description]
+  field-display-names:
+    title: "Topic"
+  sort: [date]
+  sort-ui: false
+  filter-ui: true
+  table-hover: true
+---
+

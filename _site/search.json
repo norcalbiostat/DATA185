@@ -14,18 +14,193 @@
     "text": "Data are not neutral, nor are the algorithms that control how the data that governs our lives are used. Interpretations and recommendations made using data are subjective. This course introduces students how to start harnessing the power of data to intelligently cope with the requirements of citizenship, employment, and family to be prepared for a healthy, happy and productive life.\nStudents will practice collecting and wrangling data into a usable form, visualizing large data sets to discover patterns, representing data in a meaningful way, exploring varying interpretations of the data and results, and discussing potentials for misuse and abuse. This course promotes critical reflection on the ethical, social, cultural, and political dimensions of data as well as providing direct hands on experience with both spreadsheets, and the programming language R.\nStudents from all majors are welcome! No prior programming experience is expected, however basic ability to use a computer is needed. Additional help is available for students needing extra support with either/both computers or math.\n\n\n\n   2 hrs lecture, 2 hrs lab\n   MW 12 - 12:50PM HOLT 171\n   Th 12 - 1:50PM LANG 300\n\n\n\n\nGE B4 Ready or ALEKS PPL proctored assessment 46+ required.\n\n\n\nTBD Week 1\n\n\n\n\n   Dr. Robin Donatello\n   Holt Hall 202\n   rdonatello@csuchico.edu\n   Schedule an appointment\n\n\n\n\n\n\n\n\nTip\n\n\n\nYou can toggle dark mode by clicking the  button in the top right navigation bar."
   },
   {
-    "objectID": "modules/welcome.html",
-    "href": "modules/welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "We start our adventure by discussing what we going to learn, why should we learn it, the logistics of how are we going to learn it, and building our learning community. We will make sure everyone can use the learning materials, and that it’s clear what is required to succeed in this class.\n\nLast updated: r format(Sys.time(), \"%a %b %d %Y %X\")"
-  },
-  {
     "objectID": "module_list.html",
     "href": "module_list.html",
-    "title": "All Modules",
+    "title": "Module Overview",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nWelcome\n\n\n\n\n\n\n\n\n\n\n\n\nAug 21, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\n\n\n\n\nAug 21, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "module_overview/welcome.html",
+    "href": "module_overview/welcome.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "We start our adventure by meeting our learning community, discussing what we going to learn, why should we learn it, and the logistics of how are we going to learn it. We will make sure everyone can use the learning materials, and that it’s clear what is required to succeed in this class."
+  },
+  {
+    "objectID": "module_overview/welcome.html#read",
+    "href": "module_overview/welcome.html#read",
+    "title": "Getting Started",
+    "section": "Read",
+    "text": "Read\n\nWelcome slides"
+  },
+  {
+    "objectID": "module_overview/welcome.html#watchlisten",
+    "href": "module_overview/welcome.html#watchlisten",
+    "title": "Getting Started",
+    "section": "Watch/Listen",
+    "text": "Watch/Listen"
+  },
+  {
+    "objectID": "module_overview/welcome.html#practice",
+    "href": "module_overview/welcome.html#practice",
+    "title": "Getting Started",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
+    "objectID": "module_overview/welcome.html#apply",
+    "href": "module_overview/welcome.html#apply",
+    "title": "Getting Started",
+    "section": "Apply",
+    "text": "Apply"
+  },
+  {
+    "objectID": "module_overview/welcome.html#assess",
+    "href": "module_overview/welcome.html#assess",
+    "title": "Getting Started",
+    "section": "Assess",
+    "text": "Assess"
+  },
+  {
+    "objectID": "module_overview/welcome.html#reflect",
+    "href": "module_overview/welcome.html#reflect",
+    "title": "Getting Started",
+    "section": "Reflect",
+    "text": "Reflect\n\nLast updated: r format(Sys.time(), \"%a %b %d %Y %X\")"
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#dr.-robin-donatello-sheher",
+    "href": "notes/cn00-welcome.html#dr.-robin-donatello-sheher",
+    "title": "Welcome to MATH 185",
+    "section": "Dr. Robin Donatello (she/her)",
+    "text": "Dr. Robin Donatello (she/her)\nYou can address me as “Robin”, “Dr. D”, or some other respectful title that you feel comfortable with.\nI have a Doctorate in Public Health (DrPH) Biostatistics from UCLA, but I’m a Chico alum. I double majored in Statistics & Biology, with minor in Chemistry, and a first generation college student who started at Butte College.\nMy campus life consists of training the next generation of Scientists how to harness the power of Statistics and Data in a responsible and ethical manner, leading the Data Science Initiative (DSI) provide training and experiences for students and faculty, and providing analytical support and statistical consulting for many projects on and off campus.\nWhen I’m not on campus, typically I’m growing food for my family, out adventuring with my dogs, or getting some game time in. You can learn more about the projects i’m involved in on my website."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#your-turn",
+    "href": "notes/cn00-welcome.html#your-turn",
+    "title": "Welcome to MATH 185",
+    "section": "Your turn",
+    "text": "Your turn\n\nTurn to your neighbor and introduce yourself.\nYou’ll post an introduction in Discord this week so everyone will get to know everyone else."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#everyone-is-welcome-here",
+    "href": "notes/cn00-welcome.html#everyone-is-welcome-here",
+    "title": "Welcome to MATH 185",
+    "section": "Everyone is welcome here",
+    "text": "Everyone is welcome here\nIt is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit.\nIt is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#supportive-learning-environment",
+    "href": "notes/cn00-welcome.html#supportive-learning-environment",
+    "title": "Welcome to MATH 185",
+    "section": "Supportive Learning Environment",
+    "text": "Supportive Learning Environment\nI would like to create a learning environment that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, etc.)"
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#to-help-accomplish-this",
+    "href": "notes/cn00-welcome.html#to-help-accomplish-this",
+    "title": "Welcome to MATH 185",
+    "section": "To help accomplish this:",
+    "text": "To help accomplish this:\n\nLet me know if you have a name and/or set of pronouns that differ from those that appear in your official Chico records.\nHelp me pronounce your name as accurately as possible. Corrections are welcome.\nIf you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. I want to be a resource for you."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#mitigating-our-risk-of-covid-19",
+    "href": "notes/cn00-welcome.html#mitigating-our-risk-of-covid-19",
+    "title": "Welcome to MATH 185",
+    "section": "Mitigating our risk of COVID-19",
+    "text": "Mitigating our risk of COVID-19\n\nThis is still a real thing, but we all have different levels of risk we are willing to take ourselves, and different risk management strategies.\nI personally am working on reducing my mask wearing to re-challenge my immune system, but I also have immunocompromised elderly mother at home. Always a balance.\nMasks will ALWAYS be welcome and respected in this classroom. No questions.\nI am likely to request masks be worn in my office.\nPlease keep up to date with available booster shots. You can’t learn if you’re ill. \nIf you have COVID symptoms, 🛑 Do not come to class. I’ll turn on Zoom for the day so you can participate.\nIf you are just generally feeling unwell, please use a mask. I will always have some on hand."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#course-description",
+    "href": "notes/cn00-welcome.html#course-description",
+    "title": "Welcome to MATH 185",
+    "section": "Course Description",
+    "text": "Course Description\nThe theory and application of survey sampling techniques. Topics include simple random sampling, stratified sampling, systematic sampling, and cluster sampling. Appropriate for mathematics, computer science, psychology, social science, agriculture, biology, and other majors.\nBy “survey” we do not strictly mean a self report survey such as the Student Feedback on Teaching. The concept is much broader."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#motivating-example",
+    "href": "notes/cn00-welcome.html#motivating-example",
+    "title": "Welcome to MATH 185",
+    "section": "Motivating Example",
+    "text": "Motivating Example\nGo to Canvas, week 0 module and read through the motivating example. Then respond to this thread by writing a few sentence summary of the example and include your take away message.\nRead through all posts later this week to see how similar, or different their messages are from yours. We all come to this class from different backgrounds and perspectives, and so will see things differently. You are welcome and encouraged to respond to other’s posts."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#learning-goals",
+    "href": "notes/cn00-welcome.html#learning-goals",
+    "title": "Welcome to MATH 185",
+    "section": "Learning goals",
+    "text": "Learning goals\n\nDefine principal concepts, advantages and disadvantages of sampling.\nCategorize, define, compare between, and implement various sampling methods such as Simple Random Sampling, Stratified Sampling, and Cluster Sampling.\nFormulate and calculate appropriate estimators and confidence intervals for population parameters under various sampling frameworks.\nEstimate the convenient or optimal sample size for various sampling methods.\nDesign, conduct, and analyze your own data collection mini-study\nBonus: You’ll get really good at writing R functions."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#a-variety-of-learning-and-working-tools",
+    "href": "notes/cn00-welcome.html#a-variety-of-learning-and-working-tools",
+    "title": "Welcome to MATH 185",
+    "section": "A variety of learning and working tools",
+    "text": "A variety of learning and working tools\n\nMany of you have had me as an instructor in the past, so some of this won’t be new.\nI use a combination of tools that are most appropriate for the task or outcome at hand.\nHomework 0 provides a checklist for getting connected and testing out your tools."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#class-website",
+    "href": "notes/cn00-welcome.html#class-website",
+    "title": "Welcome to MATH 185",
+    "section": "Class website",
+    "text": "Class website\n\nhttps://sampling-458.netlify.app/\n\nBookmark this page. You will be here a lot. Going through Canvas each time is a waste of your time and clicks.\nContains a weekly overview, lecture notes, homework files, relevant links.\nSometimes links will be broken. Typo’s happen. Notify me via Discord and I’ll get to it asap."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#textbook",
+    "href": "notes/cn00-welcome.html#textbook",
+    "title": "Welcome to MATH 185",
+    "section": "Textbook",
+    "text": "Textbook\n\nSampling, 3rd Edition. Sharon Lohr\nDownload the R companion for the book from this site as well. I anticipate it’ll be useful."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#canvas",
+    "href": "notes/cn00-welcome.html#canvas",
+    "title": "Welcome to MATH 185",
+    "section": "Canvas",
+    "text": "Canvas\n\nCanvas is new to me, and it seems reasonable for organizing due dates & submissions so we’ll try that out\nIt’ll be your gradebook as well.\nContent is organized into Modules, with flow and due dates\nI will also put links to files that you need to download here.\n\n\nI reserve the right to adjust where links and content are contained throughout the semseter if I find Canvas not to be the right tool at this time for me (or perhaps it will work better?)"
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#discord",
+    "href": "notes/cn00-welcome.html#discord",
+    "title": "Welcome to MATH 185",
+    "section": "Discord",
+    "text": "Discord\n\nUsed for outside class discussions, meme sharing, homework help and general chatter.\nI will not answer most class-content based questions through email.\nDownload either the phone app or the desktop app (I use both). This is mandatory.\n\nDo not rely on remembering to log in via the web browser. You will miss important notifications."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#learning-content",
+    "href": "notes/cn00-welcome.html#learning-content",
+    "title": "Welcome to MATH 185",
+    "section": "Learning Content",
+    "text": "Learning Content\n\nHTML based notes that to start out with are semi-complete. Example\nDuring class we will work together through examples, you will work together on “you try it” practice problems, and answer questions\nYou will have a version of these notes that have blank spots for you to fill in, or answer questions\n\nYou will compile these notes to PDF and submit them through Canvas a few days after we complete a section\n\nI will update the online posted notes with our collaborative solutions to the “you try it” problems.\nAs the term progresses, you will be creating sections of these notes (that will be posted) and “teaching” the rest of the class your topic."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#hack-md",
+    "href": "notes/cn00-welcome.html#hack-md",
+    "title": "Welcome to MATH 185",
+    "section": "Hack MD",
+    "text": "Hack MD\n\nAccount setup instructions part of HW0\nInteractive markdown based collaborative notes\nI will give you a file for the first set of ‘blank’ notes.\nAfterward you will be responsible for copying them (and sometimes filling out sections) of the notes directly in HackMD."
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#r-r-studio",
+    "href": "notes/cn00-welcome.html#r-r-studio",
+    "title": "Welcome to MATH 185",
+    "section": "R + R Studio",
+    "text": "R + R Studio\n\nWe will be using the R programming language, along with Rstudio the Integrated Development Environment. More info on how to download and update your system can be found in Hw0.\nNew to R? I recommend you also enroll in Math 130 ASAP. This semester it is asynchronous online. This is a 5 week primer to get you from zero to basic ability to import, visualize and manage data.\n\nJust need a refresher/jump start? Everything is online https://norcalbiostat.github.io/MATH130/"
+  },
+  {
+    "objectID": "notes/cn00-welcome.html#graded-content",
+    "href": "notes/cn00-welcome.html#graded-content",
+    "title": "Welcome to MATH 185",
+    "section": "Graded Content",
+    "text": "Graded Content\n\nWorksheets, homework assignments, notes, exams, and a project.\nDetails in the Syllabus."
+  },
+  {
+    "objectID": "notes_list.html",
+    "href": "notes_list.html",
+    "title": "Course Notes",
+    "section": "",
+    "text": "Date\n\n\nTopic\n\n\nDescription\n\n\n\n\n\n\nAug 21, 2023\n\n\nWelcome to MATH 185\n\n\nCourse Overview slides\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -117,5 +292,54 @@
     "title": "MATH 185 Syllabus",
     "section": "Academic Integrity",
     "text": "Academic Integrity\nAcademic integrity is defined as “a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility”. From these values flow principles of behavior that enable academic communities to translate ideals to action. Academic integrity is expected and required. No forms of cheating or plagiarism will be tolerated. Please see your student handbook at https://www.csuchico.edu/scrr/integrity.shtml if you have questions about the meaning of these terms or the consequences of violating academic integrity.\n\nLast updated: r format(Sys.time(), \"%a %b %d %Y %X\")"
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html",
+    "href": "practice/lab01-computing-101.html",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "",
+    "text": "This lab serves to level the playing field when it comes to basic computer literacy. For everyone to succeed, everyone must be presented the same information. Not all students coming into this class have had the opportunity to work with computers often, and even if you have, you may not be uses to using computers in the way that we will be doing so in this class.\nComputers are not like phones, where apps 1-click install to a location you don’t need to care about, and “just work”. To set yourself up for success in school, research and professional life it is well worth your time to take a moment and look at how to use a computer in a professional setting.\n\n\nThis is a follow-along lab. The activities and questions that are asked are designed to have you learn or practice something, without the lecture part. This lets you more actively participate in your learning. Some parts you are asked to do on your own, such as reading a short article, or watching & listening to a short external video. Other times you will be following along as the instructor demonstrates how to accomplish a task.\nOften you will be asked to Google something. This is not a cop-out on my part as a way to not write instructions, learning how to effectively search for information on the internet is one of the course objectives. So we’ll practice this activity often.\nSymbols used in these documents:\nA pencil icon ✏️ indicates that this is a question for you to answer.\n\n\n\n\n\n\nThis assignment is done in a Google Document. Here is how you set up your submission document.\n\nGo to our shared Google Drive, under Practice, then Lab01.\nMake a copy of the userid_lab01 file and replace userid with your campus user name.\n\nWe will be following strict naming conventions in this class. The reasons for it will become more clear as we progress in the class and start accessing data programatically.\n\nAnswer the questions marked with ✏️ in this submission file."
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#instructions",
+    "href": "practice/lab01-computing-101.html#instructions",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "",
+    "text": "This is a follow-along lab. The activities and questions that are asked are designed to have you learn or practice something, without the lecture part. This lets you more actively participate in your learning. Some parts you are asked to do on your own, such as reading a short article, or watching & listening to a short external video. Other times you will be following along as the instructor demonstrates how to accomplish a task.\nOften you will be asked to Google something. This is not a cop-out on my part as a way to not write instructions, learning how to effectively search for information on the internet is one of the course objectives. So we’ll practice this activity often.\nSymbols used in these documents:\nA pencil icon ✏️ indicates that this is a question for you to answer."
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#submission-instructions",
+    "href": "practice/lab01-computing-101.html#submission-instructions",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "",
+    "text": "This assignment is done in a Google Document. Here is how you set up your submission document.\n\nGo to our shared Google Drive, under Practice, then Lab01.\nMake a copy of the userid_lab01 file and replace userid with your campus user name.\n\nWe will be following strict naming conventions in this class. The reasons for it will become more clear as we progress in the class and start accessing data programatically.\n\nAnswer the questions marked with ✏️ in this submission file."
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#local-vs-remote",
+    "href": "practice/lab01-computing-101.html#local-vs-remote",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "Local vs Remote",
+    "text": "Local vs Remote\nYou can store files either locally on your own physical computer, or remotely on someone else’s computer. Often remote file storage is also called Cloud storage.\n\nGoogle “cloud file storage” and scroll past all the advertised postings.\n\n\n\nThis is an advertisement\n\n\n\n\n\nThis is not an advertisement\n\n\n✏️What are some cloud file storage platforms available?\n\n\n\n\n\n\n\n\nLocation\nAdvantage\nDisadvantage\n\n\n\n\nLocal\n\nAlways available on that machine\nNo additional costs\nNo internet, no problem\n\n\nNo automatic backups\nOnly available on that one machine\nHave to use a separate program to share files\n\n\n\nRemote\n\nCan access files on multiple computers | - Relies on internet access |\nDepending on platform, can share files between multiple OS’s | - Large files can be slow or difficult to work with |\nAutomatic backups always available in the cloud | - Storage space may be limited | | | - There may be costs to use the platform | | - Some platforms are locked to an OS (e.g. Mac iCloud and Windows OneDrive)\n\n\n\n\nThe OS you are using will help determine where you store your files for this class, but I HIGHLY and STRONGLY recommend that you work out of cloud based storage program for your entire academic career. Nothing is more heartbreaking than a stolen laptop that has years of your research work on it."
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#upload-vs-syncing-in-cloud-storage",
+    "href": "practice/lab01-computing-101.html#upload-vs-syncing-in-cloud-storage",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "Upload vs Syncing in cloud storage",
+    "text": "Upload vs Syncing in cloud storage\nSome cloud based storage systems are upload only, you upload a copy to their platform and there it lives until you remove it. Some platforms, like Box, Dropbox and Google Drive have a browser interface where you can view and sometimes edit your files.\nWhat is preferable for most students, faculty, professionals and researchers is to have a copy of all files both on your local computer, and the cloud. That way when a change is made to a file on one computer, it is automatically backed up to the cloud, and available on all other computers using the same program.\n\nAs an example, here is my setup: I have four devices I use regularly. 1) Work Windows PC, 2) Home Windows PC, 3) Work Mac laptop 4) Android Phone\nChico State wants employees to use Box for all of their work files. You can read more about cloud security on our campus here. I have installed Box Drive on both PC’s and my Mac laptop. I now have access to all my work files on 3 computers, and I can access/view these files through a browser from any device if needed, including my phone using the Box android app.\nBefore coming to Chico, I used Dropbox nearly extensively for my PhD research, it also holds nearly all my music and pictures of my animals (I pay an annual fee for the storage). I have Dropbox installed on my home PC and my phone app. If I need files from Dropbox while on a strange computer, I can log into my account via a web browser and access or download what I need.\nFor Teaching, I use Google Drive. I also have Google Drive Stream installed on both my work PC and Mac, and the Android App. This lets me navigate on my computer to files in Google Drive, open and comment on your PDF homework submission files in a native program like Adobe Acrobat.\n\n✏️ What cloud based storage system will you be using for this class? If you need help figuring this out, ask in Slack, come to community coding, or student hours.\n\nSign up for and install your cloud storage system of choice."
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#file-names",
+    "href": "practice/lab01-computing-101.html#file-names",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "File names",
+    "text": "File names\n\nReview Jenny’s slide deck.\nContent in this section is credited to Naming things by Jenny Bryan.\nTLDR;\n🛑 myabstract.docx\n🛑 Joe’s Filenames Use Spaces and Punctuation.xlsx\n🛑 figure 1.png\n🛑 fig 2.png\n🛑 JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt ✅ 2014-06-08_abstract-for-sla.docx\n✅joes-filenames-are-getting-better.xlsx\n✅fig01_scatterplot-talk-length-vs-interest.png\n✅fig02_histogram-talk-attendance.png\n✅1986-01-28_raw-data-from-challenger-o-rings.txt\nThree principles for file names\n\nMachine readable\n\navoid spaces, punctuation, accented characters, case sensitivity\n\nHuman readable\n\nname contains information on content\n\nPlays well with default ordering\n\nput something numeric first, use proper dates, left pad numbers with zero\n\n\nText\nYou may be used to using Sentence case such as\n\nMath 189 homework 1.docx\nDonatello CV as of Feb 2021.pdf\n\nThese are human readable because we can figure out what the file is about based on the name. But they still violates principle #1 & 3.\nRevised names:\n\nhw01_math189_rdonatello.docx\n2021-02_CV\n\nLeft pad numbers with zeros\nThis means to use 01 instead of 1.\nif you don’t left pad, you get this:\n10_final-figs-for-publication.R\n1_data-cleaning.R\n2_fit-model.R\nwhich is just sad\nUse YYYY-MM-DD for standard dates"
+  },
+  {
+    "objectID": "practice/lab01-computing-101.html#file-locations",
+    "href": "practice/lab01-computing-101.html#file-locations",
+    "title": "Lab 01: Intro Computing for Data Science",
+    "section": "File locations",
+    "text": "File locations\nFor the love of all that is holy, DON’T SAVE FILES IN YOUR DOWNLOADS FOLDER!\nI had to get that out of my system.\nA file path is like directions for your computer on how to find your file.\n\nLook at the examples of file paths on different systems in the Wikipedia article.\n\nA back slash \\ indicates a sub-folder.\nNot all places that are easy to access using a mouse have a short path\n\nC:\\Users\\rdonatello\\Desktop\\New folder\n\nLong paths don’t always indicate lack of organization\n\nC:\\Users\\rdonatello\\Box\\CHC All\\01. Projects Active\\SNAP-Ed on Campuses (SP6485201, 02)\\08. Research and Evaluation\\02. Data Analysis\\shared reports\n\nIn this class we can short cut paths for remote storage locations. E.g. your submission file for this lab goes in GDrive\\practice\\Lab01\n\n\n\nPractice saving files in an organized manner\n\nDecide on a location for files associate with this class.\nCreate a class folder, and a homework subfolder\nDownload this file and save it in your homework subfolder. Give it a file name that meets the three principles.\n\n✏️ Submit a screenshot of your class folder with downloaded file.\n✏️ Write out the full path, including file name to the downloaded file.\n\nHow to find a path to a file in Windows 10\nHow to find a path to a file on Mac"
   }
 ]

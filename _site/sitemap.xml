@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/index.html</loc>
-    <lastmod>2023-07-06T23:00:27.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://norcalbiostat.github.io/DATA185/modules/welcome.html</loc>
-    <lastmod>2023-07-06T23:58:49.074Z</lastmod>
+    <lastmod>2023-07-07T22:03:41.197Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/module_list.html</loc>
-    <lastmod>2023-07-07T00:05:58.584Z</lastmod>
+    <lastmod>2023-07-07T22:04:32.842Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norcalbiostat.github.io/DATA185/module_overview/welcome.html</loc>
+    <lastmod>2023-07-07T22:04:27.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norcalbiostat.github.io/DATA185/notes/cn00-welcome.html</loc>
+    <lastmod>2023-07-07T22:05:14.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norcalbiostat.github.io/DATA185/notes_list.html</loc>
+    <lastmod>2023-07-07T22:04:34.280Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/syllabus.html</loc>
-    <lastmod>2023-07-06T23:00:32.475Z</lastmod>
+    <lastmod>2023-07-08T00:54:51.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norcalbiostat.github.io/DATA185/practice/lab01-computing-101.html</loc>
+    <lastmod>2023-07-08T00:54:48.221Z</lastmod>
   </url>
 </urlset>

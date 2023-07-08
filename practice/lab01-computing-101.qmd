@@ -1,0 +1,242 @@
+---
+title: 'Lab 01: Intro Computing for Data Science'
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE) 
+```
+
+# Overview
+
+This lab serves to level the playing field when it comes to basic computer literacy. For everyone to succeed, everyone must be presented the same information. Not all students coming into this class have had the opportunity to work with computers often, and even if you have, you may not be uses to using computers in the way that we will be doing so in this class.
+
+Computers are not like phones, where apps 1-click install to a location you don't need to care about, and "just work". To set yourself up for success in school, research and professional life it is well worth your time to take a moment and look at how to use a computer in a professional setting.
+
+## Instructions
+
+This is a follow-along lab. The activities and questions that are asked are designed to have you learn or practice something, without the lecture part. This lets you more actively participate in your learning. Some parts you are asked to do on your own, such as reading a short article, or watching & listening to a short external video. Other times you will be following along as the instructor demonstrates how to accomplish a task.
+
+Often you will be asked to Google something. This is not a cop-out on my part as a way to not write instructions, learning how to effectively search for information on the internet is one of the course objectives. So we'll practice this activity often.
+
+**Symbols used in these documents:**
+
+A pencil icon ✏️ indicates that this is a question for you to answer.
+
+##### This text indciates that you are being asked to do something
+ 
+## Submission Instructions
+
+This assignment is done in a Google Document. Here is how you set up your submission document.
+
+1. Go to our shared Google Drive, under `Practice`, then `Lab01`. 
+2. Make a copy of the `userid_lab01` file and replace `userid` with your campus user name.
+    - We will be following strict naming conventions in this class. The reasons for it will become more clear as we progress in the class and start accessing data programatically. 
+3. Answer the questions marked with ✏️ in this submission file. 
+
+
+
+------------------------------------------------------------------------
+
+# Computer Operating Systems
+
+##### Review the Wikipedia entry on [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
+
+Specifically pay attention to 1) the image to the right, 2) the first sentence and 3) the last sentence before the "Contents" block.
+
+✏️ In a sentence, in your own words, what is an OS, and list the four most commonly used OS's.
+
+✏️What OS are you using? If the computer you are using to fill out this lab is different than the one you typically use, what is the OS you typically use? Is your lab neighbor using the same OS as you?
+
+✏️Why do you think you need to know this information?
+
+# File types
+
+**File types** are also known as **file formats**, is the way computers store (or **encode**) information.
+
+**Filename extensions** are the little suffixes added to the **file name** of a computer file. You may be familiar with extensions such as `.docx`, `.html`or `.pdf` . These explicitly tell your computer what program is used to open the file. The commonality these all have is that they have a period `.` between the file name, and the file extension.
+
+> Depending on your OS's settings, sometimes these file extension will not be shown in the file name.
+
+However, your computer will also show a specific icon for file type.
+
+##### Google "File type icons", select "images". 
+
+✏️ Which file type icons do you recognize? Take a screen shot of a few and add them to your submission. 
+
+⚠️If the file type extension gets removed from the file name, it can potentially corrupt the file. Sometimes you can rename the file and put the extension back on, sometimes this will not work.
+
+# File storage
+
+Computer storage is cheap, but sometimes it just can't compare to the amount of cute cat videos you've taken over the years. Let's talk about your options of where you can save files to, and how that choice affects how you can access and work on those files.
+
+## Local vs Remote
+
+You can store files either **locally** on your own physical computer, or **remotely** on someone else's computer. Often remote file storage is also called **Cloud storage**.
+
+##### Google "cloud file storage" and scroll past all the advertised postings.
+
+![This is an advertisement](../img/ad.png)
+
+![This is not an advertisement](../img/not_ad.png){width="311"}
+
+✏️What are some cloud file storage platforms available?
+
++----------+------------------------------------------------------------------+-------------------------------------------------------------------------------+
+| Location | Advantage                                                        | Disadvantage                                                                  |
++==========+==================================================================+===============================================================================+
+| Local    | -   Always available on that machine                             | -   No automatic backups                                                      |
+|          |                                                                  |                                                                               |
+|          | -   No additional costs                                          | -   Only available on that one machine                                        |
+|          |                                                                  |                                                                               |
+|          | -   No internet, no problem                                      | -   Have to use a separate program to share files                             |
++----------+------------------------------------------------------------------+-------------------------------------------------------------------------------+
+| Remote   | -   Can access files on multiple computers                       | -   Relies on internet access                                                 |
+|          |                                                                  |                                                                               |
+|          | -   Depending on platform, can share files between multiple OS's | -   Large files can be slow or difficult to work with                         |
+|          |                                                                  |                                                                               |
+|          | -   Automatic backups always available in the cloud             | -   Storage space may be limited                                              |
+|          |                                                                  |                                                                               |
+|          |                                                                  | -   There may be costs to use the platform                                    |
+|          |                                                                  |                                                                               |
+|          |                                                                  | -   Some platforms are locked to an OS (e.g. Mac iCloud and Windows OneDrive) |
++----------+------------------------------------------------------------------+-------------------------------------------------------------------------------+
+
+The OS you are using will help determine where you store your files for this class, but I **HIGHLY** and **STRONGLY** recommend that you work out of cloud based storage program for your entire academic career. Nothing is more heartbreaking than a stolen laptop that has years of your research work on it.
+
+## Upload vs Syncing in cloud storage
+
+Some cloud based storage systems are upload only, you upload a copy to their platform and there it lives until you remove it. Some platforms, like *Box, Dropbox* and *Google Drive* have a browser interface where you can view and sometimes edit your files.
+
+What is preferable for most students, faculty, professionals and researchers is to have a copy of all files both on your local computer, and the cloud. That way when a change is made to a file on one computer, it is automatically backed up to the cloud, and available on all other computers using the same program.
+
+> As an example, here is my setup: I have four devices I use regularly. 1) Work Windows PC, 2) Home Windows PC, 3) Work Mac laptop 4) Android Phone
+>
+> Chico State wants employees to use *Box* for all of their work files. You can read more about [cloud security on our campus here.](https://www.csuchico.edu/isec/cloud-computing/index.shtml) I have installed *Box Drive* on both PC's and my Mac laptop. I now have access to all my work files on 3 computers, and I can access/view these files through a browser from any device if needed, including my phone using the *Box* android app.
+>
+> Before coming to Chico, I used *Dropbox* nearly extensively for my PhD research, it also holds nearly all my music and pictures of my animals (I pay an annual fee for the storage). I have *Dropbox* installed on my home PC and my phone app. If I need files from *Dropbox* while on a strange computer, I can log into my account via a web browser and access or download what I need.
+>
+> For Teaching, I use *Google Drive*. I also have *Google Drive Stream* installed on both my work PC and Mac, and the Android App. This lets me navigate on my computer to files in Google Drive, open and comment on your PDF homework submission files in a native program like Adobe Acrobat.
+
+✏️ What cloud based storage system will you be using for this class? If you need help figuring this out, ask in Slack, come to community coding, or student hours.
+
+##### Sign up for and install your cloud storage system of choice. 
+
+# File organization
+
+> File organization and naming are powerful weapons against chaos.   
+> –Jenny Bryan
+
+There are many ways to organize your files, you may find yourself changing your organizational method part way through your academic career. This is normal and expected. While you don't *need* to be organized, your future self (and anyone you collaborate with) will find it very helpful. Payoffs accumulate as your projects get more complex. 
+
+
+## File names
+
+##### Review Jenny's slide deck. 
+
+Content in this section is credited to [Naming things](https://speakerdeck.com/jennybc/how-to-name-files) by Jenny Bryan. 
+
+
+**TLDR;**
+
+`r emo::ji("sign")` myabstract.docx  
+`r emo::ji("sign")` Joe’s Filenames Use Spaces and Punctuation.xlsx  
+`r emo::ji("sign")` figure 1.png  
+`r emo::ji("sign")` fig 2.png  
+`r emo::ji("sign")` JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt
+`r emo::ji("check")` 2014-06-08_abstract-for-sla.docx  
+`r emo::ji("check")`joes-filenames-are-getting-better.xlsx  
+`r emo::ji("check")`fig01_scatterplot-talk-length-vs-interest.png  
+`r emo::ji("check")`fig02_histogram-talk-attendance.png  
+`r emo::ji("check")`1986-01-28_raw-data-from-challenger-o-rings.txt
+
+
+**Three principles for file names**
+
+1. Machine readable
+    - avoid spaces, punctuation, accented characters, case sensitivity
+2. Human readable
+    - name contains information on content
+3. Plays well with default ordering
+    - put something numeric first, use proper dates, left pad numbers with zero
+
+
+**Text**
+
+You may be used to using **Sentence case** such as
+
+> `Math 189 homework 1.docx`  
+> `Donatello CV as of Feb 2021.pdf`
+
+These are human readable because we can figure out what the file is about based on the name. But they still violates principle #1 & 3. 
+
+Revised names:
+  
+> `hw01_math189_rdonatello.docx`  
+> `2021-02_CV`
+
+
+**Left pad numbers with zeros**
+
+This means to use `01` instead of `1`.
+
+if you don’t left pad, you get this: 
+
+10_final-figs-for-publication.R  
+1_data-cleaning.R  
+2_fit-model.R  
+
+which is just sad
+
+**Use `YYYY-MM-DD` for standard dates**
+
+<img  src="https://imgs.xkcd.com/comics/iso_8601.png" width="50%" 
+      alt="PSA on writing dates" 
+      title = "PSA on writing dates"/>
+
+<img  src="date-standards.png" width="50%" 
+      alt="Noone uses MMDDYYYY" 
+      title = "Noone uses MMDDYYYY"/>
+
+## File locations
+
+For the love of all that is holy, <span style="color: red;">DON'T SAVE FILES IN YOUR DOWNLOADS FOLDER!</span>
+
+I had to get that out of my system. 
+
+A [file path](https://en.wikipedia.org/wiki/Path_(computing)) is like directions for your computer on how to find your file. 
+
+##### Look at the examples of file paths on different systems in the Wikipedia article.
+
+* A back slash `\` indicates a sub-folder. 
+* Not all places that are easy to access using a mouse have a short path
+    - `C:\Users\rdonatello\Desktop\New folder`
+* Long paths don't always indicate lack of organization
+    - `C:\Users\rdonatello\Box\CHC All\01. Projects Active\SNAP-Ed on Campuses (SP6485201, 02)\08. Research and Evaluation\02. Data Analysis\shared reports`
+
+* In this class we can short cut paths for remote storage locations. E.g. your submission file for this lab goes in `GDrive\practice\Lab01`
+
+##### Practice saving files in an organized manner
+
+1. Decide on a location for files associate with this class. 
+2. Create a class folder, and a homework subfolder
+3. Download [this file](../img/watch me.mp4) and save it in your `homework` subfolder. Give it a file name that meets the three principles. 
+
+
+✏️ Submit a screenshot of your class folder with downloaded file.  
+✏️ Write out the full path, including file name to the downloaded file. 
+
+     
+* [How to find a path to a file in Windows 10](https://stackoverflow.com/questions/32573080/how-can-i-get-the-path-to-a-file-in-windows-10)
+* [How to find a path to a file on Mac](https://apple.stackexchange.com/questions/252171/mac-finder-getting-the-path-of-a-directory-or-file-as-as-string)
+
+# Install Programs
+
+Data is often stored in a spreadsheet format (.csv, .xls, .xlsx) and so you need a way on your local machine to open and view these files. Google Sheets does not have the full functionality as a program like Microsoft Excel. Mac Numbers also does not always play well with others. 
+
+Good news is that MS Excel (and the whole Office suite) is free for students. 
+
+##### Follow these instructions to install Excel on your computer. 
+
+https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=8738 
+
+If you do not have a Mac or Windows computer, come talk to your instructor about an alternative. 

@@ -19,9 +19,11 @@ website:
     left:
       - text: Modules
         href: module_list.qmd
-      - text: Learn
+      - text: Notes
+        href: notes_list.qmd
       - text: Practice
-      - text: Apply
+        href: practice_list.qmd
+      - text: Project
 
         
     right: 
