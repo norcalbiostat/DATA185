@@ -31,11 +31,21 @@ _Students from all majors are welcome! **No prior programming experience is expe
 
 * **Class Website:** 
 * **Laptop & Internet**: Expect to bring your laptop to class every day. 
-* **Data Analysis software**: R Studio Cloud. 
-* **Textbooks:** None. I will provide all readings, videos and lecture notes. 
+* **Data Analysis software**: All software is free to download and use. 
+    - Microsoft Excel
+    - R (the programming language), and R Studio (the environment), via [Posit Cloud](https://posit.cloud/)
+* **Textbooks:** All reading materials are free and available online. 
+    - Computational and Inferential Thinking: The foundations of Data Science. [Data8](https://inferentialthinking.com/chapters/intro.html)
+    - R for Data Science [R4DS](https://r4ds.hadley.nz/) 2nd Edition
+    - Bit by Bit: Social Research in the Digital Age, 1st edition [BBB](https://www.bitbybitbook.com/en/1st-ed/introduction/)
 * **Canvas**: Module overview, assignments, gradebook, calendar. 
 * **Discord**: A free discussion platform with a lot of collaborative functionality. 
-* **Google Drive:** You will be added to a class folder using your campus email. 
+
+
+
+
+
+
 
 Instructions for signing up & obtaining materials are in HW 0. Contact me ASAP if any of this (reliable laptop, internet or cost of Rstudio) poses a problem or concern for you. I can't assist if you don't communicate your needs with me. 
 

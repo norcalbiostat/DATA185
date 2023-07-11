@@ -1,0 +1,32 @@
+
+
+/* font colors */
+.red {
+  color: #eb4034;
+}
+.purple {
+  color: purple;
+}
+.blue {
+  color: #0000FF;
+}
+.darkorange {
+  color: #FF8C00;
+}
+.darkslategray {
+  color: #2F4F4F;
+}
+
+
+
+h5 {
+  font-weight: bold;
+  color: #5A6056;
+  background-color: burlywood;
+}
+
+kbd {
+  border-radius: 2px;
+  padding: 2px;
+  border: 1px solid black;
+}

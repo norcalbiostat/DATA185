@@ -126,11 +126,6 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#computer-operating-systems" id="toc-computer-operating-systems" class="nav-link" data-scroll-target="#computer-operating-systems">Computer Operating Systems</a></li>
   <li><a href="#file-types" id="toc-file-types" class="nav-link" data-scroll-target="#file-types">File types</a></li>
-  <li><a href="#file-storage" id="toc-file-storage" class="nav-link" data-scroll-target="#file-storage">File storage</a>
-  <ul class="collapse">
-  <li><a href="#local-vs-remote" id="toc-local-vs-remote" class="nav-link" data-scroll-target="#local-vs-remote">Local vs Remote</a></li>
-  <li><a href="#upload-vs-syncing-in-cloud-storage" id="toc-upload-vs-syncing-in-cloud-storage" class="nav-link" data-scroll-target="#upload-vs-syncing-in-cloud-storage">Upload vs Syncing in cloud storage</a></li>
-  </ul></li>
   <li><a href="#file-organization" id="toc-file-organization" class="nav-link" data-scroll-target="#file-organization">File organization</a>
   <ul class="collapse">
   <li><a href="#file-names" id="toc-file-names" class="nav-link" data-scroll-target="#file-names">File names</a></li>
@@ -168,23 +163,36 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
 <p>This is a follow-along lab. The activities and questions that are asked are designed to have you learn or practice something, without the lecture part. This lets you more actively participate in your learning. Some parts you are asked to do on your own, such as reading a short article, or watching &amp; listening to a short external video. Other times you will be following along as the instructor demonstrates how to accomplish a task.</p>
 <p>Often you will be asked to Google something. This is not a cop-out on my part as a way to not write instructions, learning how to effectively search for information on the internet is one of the course objectives. So we’ll practice this activity often.</p>
-<p><strong>Symbols used in these documents:</strong></p>
-<p>A pencil icon ✏️ indicates that this is a question for you to answer.</p>
-<section id="this-text-indciates-that-you-are-being-asked-to-do-something" class="level5">
-<h5 class="anchored" data-anchor-id="this-text-indciates-that-you-are-being-asked-to-do-something">This text indciates that you are being asked to do something</h5>
-</section>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Grey/Blue boxes like this are instructions for you to do something.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+✏️ Check your knowledge
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Green boxes like this indicates that this is a question for you to answer. Pay attention to where you should be answering these questions at. E.g. Canvas, Rstudio or somewhere else. This will be specified in the submission instructions section.</p>
+</div>
+</div>
 </section>
 <section id="submission-instructions" class="level2">
 <h2 class="anchored" data-anchor-id="submission-instructions">Submission Instructions</h2>
-<p>This assignment is done in a Google Document. Here is how you set up your submission document.</p>
-<ol type="1">
-<li>Go to our shared Google Drive, under <code>Practice</code>, then <code>Lab01</code>.</li>
-<li>Make a copy of the <code>userid_lab01</code> file and replace <code>userid</code> with your campus user name.
-<ul>
-<li>We will be following strict naming conventions in this class. The reasons for it will become more clear as we progress in the class and start accessing data programatically.</li>
-</ul></li>
-<li>Answer the questions marked with ✏️ in this submission file.</li>
-</ol>
+<p>Write your answers and submit your screenshots to the assignment “quiz” in Canvas.</p>
 <hr>
 </section>
 </section>
@@ -193,9 +201,23 @@ ul.task-list li input[type="checkbox"] {
 <section id="review-the-wikipedia-entry-on-operating-systems" class="level5">
 <h5 class="anchored" data-anchor-id="review-the-wikipedia-entry-on-operating-systems">Review the Wikipedia entry on <a href="https://en.wikipedia.org/wiki/Operating_system">Operating Systems</a></h5>
 <p>Specifically pay attention to 1) the image to the right, 2) the first sentence and 3) the last sentence before the “Contents” block.</p>
-<p>✏️ In a sentence, in your own words, what is an OS, and list the four most commonly used OS’s.</p>
-<p>✏️What OS are you using? If the computer you are using to fill out this lab is different than the one you typically use, what is the OS you typically use? Is your lab neighbor using the same OS as you?</p>
-<p>✏️Why do you think you need to know this information?</p>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+✏️ Check your knowledge
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>In a sentence, in your own words, what is an OS, and list the four most commonly used OS’s.</li>
+<li>What OS are you using? If the computer you are using to fill out this lab is different than the one you typically use, what is the OS you typically use? Is your lab neighbor using the same OS as you?</li>
+<li>Why do you think you need to know this information?</li>
+</ol>
+</div>
+</div>
 </section>
 </section>
 <section id="file-types" class="level1">
@@ -206,88 +228,35 @@ ul.task-list li input[type="checkbox"] {
 <p>Depending on your OS’s settings, sometimes these file extension will not be shown in the file name.</p>
 </blockquote>
 <p>However, your computer will also show a specific icon for file type.</p>
-<section id="google-file-type-icons-select-images." class="level5">
-<h5 class="anchored" data-anchor-id="google-file-type-icons-select-images.">Google “File type icons”, select “images”.</h5>
-<p>✏️ Which file type icons do you recognize? Take a screen shot of a few and add them to your submission.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Google “File type icons”, select “images”.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+✏️ Check your knowledge
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol start="4" type="1">
+<li>Which file type icons do you recognize? Take a screen shot of a few and add them to your submission.</li>
+</ol>
+</div>
+</div>
 <p>⚠️If the file type extension gets removed from the file name, it can potentially corrupt the file. Sometimes you can rename the file and put the extension back on, sometimes this will not work.</p>
-</section>
-</section>
-<section id="file-storage" class="level1">
-<h1>File storage</h1>
-<p>Computer storage is cheap, but sometimes it just can’t compare to the amount of cute cat videos you’ve taken over the years. Let’s talk about your options of where you can save files to, and how that choice affects how you can access and work on those files.</p>
-<section id="local-vs-remote" class="level2">
-<h2 class="anchored" data-anchor-id="local-vs-remote">Local vs Remote</h2>
-<p>You can store files either <strong>locally</strong> on your own physical computer, or <strong>remotely</strong> on someone else’s computer. Often remote file storage is also called <strong>Cloud storage</strong>.</p>
-<section id="google-cloud-file-storage-and-scroll-past-all-the-advertised-postings." class="level5">
-<h5 class="anchored" data-anchor-id="google-cloud-file-storage-and-scroll-past-all-the-advertised-postings.">Google “cloud file storage” and scroll past all the advertised postings.</h5>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../img/ad.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">This is an advertisement</figcaption><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../img/not_ad.png" class="img-fluid figure-img" width="311"></p>
-<p></p><figcaption class="figure-caption">This is not an advertisement</figcaption><p></p>
-</figure>
-</div>
-<p>✏️What are some cloud file storage platforms available?</p>
-<table class="table">
-<colgroup>
-<col style="width: 6%">
-<col style="width: 42%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Location</th>
-<th>Advantage</th>
-<th>Disadvantage</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Local</td>
-<td><ul>
-<li><p>Always available on that machine</p></li>
-<li><p>No additional costs</p></li>
-<li><p>No internet, no problem</p></li>
-</ul></td>
-<td><ul>
-<li><p>No automatic backups</p></li>
-<li><p>Only available on that one machine</p></li>
-<li><p>Have to use a separate program to share files</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Remote</td>
-<td colspan="2"><ul>
-<li>Can access files on multiple computers | - Relies on internet access |</li>
-<li>Depending on platform, can share files between multiple OS’s | - Large files can be slow or difficult to work with |</li>
-<li>Automatic backups always available in the cloud | - Storage space may be limited | | | - There may be costs to use the platform | | - Some platforms are locked to an OS (e.g.&nbsp;Mac iCloud and Windows OneDrive)</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p>The OS you are using will help determine where you store your files for this class, but I <strong>HIGHLY</strong> and <strong>STRONGLY</strong> recommend that you work out of cloud based storage program for your entire academic career. Nothing is more heartbreaking than a stolen laptop that has years of your research work on it.</p>
-</section>
-</section>
-<section id="upload-vs-syncing-in-cloud-storage" class="level2">
-<h2 class="anchored" data-anchor-id="upload-vs-syncing-in-cloud-storage">Upload vs Syncing in cloud storage</h2>
-<p>Some cloud based storage systems are upload only, you upload a copy to their platform and there it lives until you remove it. Some platforms, like <em>Box, Dropbox</em> and <em>Google Drive</em> have a browser interface where you can view and sometimes edit your files.</p>
-<p>What is preferable for most students, faculty, professionals and researchers is to have a copy of all files both on your local computer, and the cloud. That way when a change is made to a file on one computer, it is automatically backed up to the cloud, and available on all other computers using the same program.</p>
-<blockquote class="blockquote">
-<p>As an example, here is my setup: I have four devices I use regularly. 1) Work Windows PC, 2) Home Windows PC, 3) Work Mac laptop 4) Android Phone</p>
-<p>Chico State wants employees to use <em>Box</em> for all of their work files. You can read more about <a href="https://www.csuchico.edu/isec/cloud-computing/index.shtml">cloud security on our campus here.</a> I have installed <em>Box Drive</em> on both PC’s and my Mac laptop. I now have access to all my work files on 3 computers, and I can access/view these files through a browser from any device if needed, including my phone using the <em>Box</em> android app.</p>
-<p>Before coming to Chico, I used <em>Dropbox</em> nearly extensively for my PhD research, it also holds nearly all my music and pictures of my animals (I pay an annual fee for the storage). I have <em>Dropbox</em> installed on my home PC and my phone app. If I need files from <em>Dropbox</em> while on a strange computer, I can log into my account via a web browser and access or download what I need.</p>
-<p>For Teaching, I use <em>Google Drive</em>. I also have <em>Google Drive Stream</em> installed on both my work PC and Mac, and the Android App. This lets me navigate on my computer to files in Google Drive, open and comment on your PDF homework submission files in a native program like Adobe Acrobat.</p>
-</blockquote>
-<p>✏️ What cloud based storage system will you be using for this class? If you need help figuring this out, ask in Slack, come to community coding, or student hours.</p>
-<section id="sign-up-for-and-install-your-cloud-storage-system-of-choice." class="level5">
-<h5 class="anchored" data-anchor-id="sign-up-for-and-install-your-cloud-storage-system-of-choice.">Sign up for and install your cloud storage system of choice.</h5>
-</section>
-</section>
 </section>
 <section id="file-organization" class="level1">
 <h1>File organization</h1>
@@ -298,8 +267,19 @@ ul.task-list li input[type="checkbox"] {
 <p>There are many ways to organize your files, you may find yourself changing your organizational method part way through your academic career. This is normal and expected. While you don’t <em>need</em> to be organized, your future self (and anyone you collaborate with) will find it very helpful. Payoffs accumulate as your projects get more complex.</p>
 <section id="file-names" class="level2">
 <h2 class="anchored" data-anchor-id="file-names">File names</h2>
-<section id="review-jennys-slide-deck." class="level5">
-<h5 class="anchored" data-anchor-id="review-jennys-slide-deck.">Review Jenny’s slide deck.</h5>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Review Jenny’s slide deck.</p>
+</div>
+</div>
 <p>Content in this section is credited to <a href="https://speakerdeck.com/jennybc/how-to-name-files">Naming things</a> by Jenny Bryan.</p>
 <p><strong>TLDR;</strong></p>
 <p>🛑 myabstract.docx<br>
@@ -329,13 +309,13 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Text</strong></p>
 <p>You may be used to using <strong>Sentence case</strong> such as</p>
 <blockquote class="blockquote">
-<p><code>Math 189 homework 1.docx</code><br>
+<p><code>Math 185 homework 1.docx</code><br>
 <code>Donatello CV as of Feb 2021.pdf</code></p>
 </blockquote>
 <p>These are human readable because we can figure out what the file is about based on the name. But they still violates principle #1 &amp; 3.</p>
 <p>Revised names:</p>
 <blockquote class="blockquote">
-<p><code>hw01_math189_rdonatello.docx</code><br>
+<p><code>hw01_math185_rdonatello.docx</code><br>
 <code>2021-02_CV</code></p>
 </blockquote>
 <p><strong>Left pad numbers with zeros</strong></p>
@@ -346,17 +326,27 @@ ul.task-list li input[type="checkbox"] {
 2_fit-model.R</p>
 <p>which is just sad</p>
 <p><strong>Use <code>YYYY-MM-DD</code> for standard dates</strong></p>
-<p><img src="https://imgs.xkcd.com/comics/iso_8601.png" width="50%" alt="PSA on writing dates" title="PSA on writing dates"></p>
-<p><img src="date-standards.png" width="50%" alt="Noone uses MMDDYYYY" title="Noone uses MMDDYYYY"></p>
-</section>
+<img src="https://imgs.xkcd.com/comics/iso_8601.png" width="50%" alt="PSA on writing dates" title="PSA on writing dates">
+<img src="date-standards.png" width="50%" alt="Noone uses MMDDYYYY" title="Noone uses MMDDYYYY">
 </section>
 <section id="file-locations" class="level2">
 <h2 class="anchored" data-anchor-id="file-locations">File locations</h2>
 <p>For the love of all that is holy, <span style="color: red;">DON’T SAVE FILES IN YOUR DOWNLOADS FOLDER!</span></p>
 <p>I had to get that out of my system.</p>
 <p>A <a href="https://en.wikipedia.org/wiki/Path_(computing)">file path</a> is like directions for your computer on how to find your file.</p>
-<section id="look-at-the-examples-of-file-paths-on-different-systems-in-the-wikipedia-article." class="level5">
-<h5 class="anchored" data-anchor-id="look-at-the-examples-of-file-paths-on-different-systems-in-the-wikipedia-article.">Look at the examples of file paths on different systems in the Wikipedia article.</h5>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Look at the examples of file paths on different systems in the linked Wikipedia article.</p>
+</div>
+</div>
 <ul>
 <li>A back slash <code>\</code> indicates a sub-folder.</li>
 <li>Not all places that are easy to access using a mouse have a short path
@@ -367,36 +357,84 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><code>C:\Users\rdonatello\Box\CHC All\01. Projects Active\SNAP-Ed on Campuses (SP6485201, 02)\08. Research and Evaluation\02. Data Analysis\shared reports</code></li>
 </ul></li>
-<li>In this class we can short cut paths for remote storage locations. E.g. your submission file for this lab goes in <code>GDrive\practice\Lab01</code></li>
 </ul>
-</section>
-<section id="practice-saving-files-in-an-organized-manner" class="level5">
-<h5 class="anchored" data-anchor-id="practice-saving-files-in-an-organized-manner">Practice saving files in an organized manner</h5>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Start to create good habits for yourself by saving files in an organized manner.</p>
 <ol type="1">
-<li>Decide on a location for files associate with this class.</li>
-<li>Create a class folder, and a homework subfolder</li>
-<li>Download <a href="../img/watch me.mp4">this file</a> and save it in your <code>homework</code> subfolder. Give it a file name that meets the three principles.</li>
+<li>Decide on a location for files associate with this class. This CANNOT be your downloads folder.</li>
+<li>Create a class folder, and a <code>homework</code> subfolder</li>
+<li>Download <a href="../img/watch me.mp4">this file</a> and save it in your <code>homework</code> subfolder. Give it a file name that meets the three principles listed above.</li>
 </ol>
-<p>✏️ Submit a screenshot of your class folder with downloaded file.<br>
-✏️ Write out the full path, including file name to the downloaded file.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+✏️ Check your knowledge
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol start="5" type="1">
+<li>Submit a screenshot of your class folder with downloaded file.<br>
+</li>
+<li>Write out the full path, including file name to the downloaded file.</li>
+</ol>
+</div>
+</div>
 <ul>
 <li><a href="https://stackoverflow.com/questions/32573080/how-can-i-get-the-path-to-a-file-in-windows-10">How to find a path to a file in Windows 10</a></li>
 <li><a href="https://apple.stackexchange.com/questions/252171/mac-finder-getting-the-path-of-a-directory-or-file-as-as-string">How to find a path to a file on Mac</a></li>
 </ul>
 </section>
 </section>
-</section>
 <section id="install-programs" class="level1">
 <h1>Install Programs</h1>
 <p>Data is often stored in a spreadsheet format (.csv, .xls, .xlsx) and so you need a way on your local machine to open and view these files. Google Sheets does not have the full functionality as a program like Microsoft Excel. Mac Numbers also does not always play well with others.</p>
 <p>Good news is that MS Excel (and the whole Office suite) is free for students.</p>
-<section id="follow-these-instructions-to-install-excel-on-your-computer." class="level5">
-<h5 class="anchored" data-anchor-id="follow-these-instructions-to-install-excel-on-your-computer.">Follow these instructions to install Excel on your computer.</h5>
-<p>https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=8738</p>
-<p>If you do not have a Mac or Windows computer, come talk to your instructor about an alternative.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+👉 Do this
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Follow (these instructions)[https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=8738] to install Excel on your computer.</p>
+<p>If you do not have a Mac or Windows computer, come talk me about an alternative.</p>
+<p>You will start learning Excel next week!</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+✏️ Check your knowledge
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol start="7" type="1">
+<li>Submit a screenshot showing the Excel program open on your computer.</li>
+</ol>
+</div>
+</div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
