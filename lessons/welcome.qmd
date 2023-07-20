@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Welcome!"
 date: 08/21/23
 format: html
 image: welcome_img.jpg
@@ -10,7 +10,7 @@ We start our adventure by meeting our learning community, discussing what we goi
 :::{.callout-tip}
 # Learning Objectives
 
-_By the end of this module, learners will be able to:_
+_By the end of this lesson, learners will be able to:_
 
 * [1] Start to form community of learners. 
 * [2] Navigate the course materials, identify and understand the policies & code of conduct
@@ -35,10 +35,13 @@ Who are we in this class? What do we have in common? What ideas or perspectives 
 
 # Learning Activities
 
+## Notes
+
+
 ## Read
 
 * [Welcome slides](../notes/cn00-welcome.html)
-
+* [Syllabus](../syllabus.html)
 
 ## Watch/Listen
 

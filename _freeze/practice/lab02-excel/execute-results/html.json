@@ -1,0 +1,14 @@
+{
+  "hash": "e9f2d7b3de6f9047fe43e0c31d923672",
+  "result": {
+    "markdown": "---\ntitle: 'Lab 02: Intro to Excel'\neditor: \n  markdown: \n    wrap: 72\n    \ncallout-icon: false\n---\n\n::: {.cell}\n\n:::\n\n\n# Overview\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

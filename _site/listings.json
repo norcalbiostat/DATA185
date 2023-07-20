@@ -1,14 +1,22 @@
 [
   {
-    "listing": "/module_list.html",
+    "listing": "/lesson_list.html",
     "items": [
-      "/module_overview/welcome.html"
+      "/lessons/data_literacy.html",
+      "/lessons/welcome.html"
     ]
   },
   {
     "listing": "/notes_list.html",
     "items": [
       "/notes/cn00-welcome.html"
+    ]
+  },
+  {
+    "listing": "/practice_list.html",
+    "items": [
+      "/practice/lab01-computing.html",
+      "/practice/lab02-excel.html"
     ]
   }
 ]

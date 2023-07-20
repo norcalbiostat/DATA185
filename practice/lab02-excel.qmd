@@ -1,0 +1,14 @@
+---
+title: 'Lab 02: Intro to Excel'
+editor: 
+  markdown: 
+    wrap: 72
+    
+callout-icon: false
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE) 
+```
+
+# Overview

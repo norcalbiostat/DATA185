@@ -15,15 +15,14 @@ website:
    
   navbar:
     pinned: true
-    background: "#FF8C00"
+    background: "#0099CC"
     left:
-      - text: Modules
-        href: module_list.qmd
-      - text: Notes
-        href: notes_list.qmd
+      - text: Learn
+        href: lesson_list.qmd
       - text: Practice
         href: practice_list.qmd
-      - text: Project
+      - text: Apply
+        href: project.qmd
 
         
     right: 
@@ -31,25 +30,21 @@ website:
         href: syllabus.qmd
 
   sidebar:
-    - id: modules
-      title: "Modules"
+    - id: guide
+      title: "All Materials"
       style: "floating"
-      collapse-level: 1
       align: left
       contents:
-        - text: "Welcome"
-          href: module_overview/welcome.qmd
-          
-    - id: learn
-      title: "Learn"
-      
-    - id: Practice
-      title: "Practice"
-      
-    - id: Apply
-      title: "Apply"
-      
-      
+        - section: "Lessons"
+          href: lesson_list.qmd
+          contents: 
+            - lessons/welcome.qmd
+            - lessons/data_literacy.qmd
+        - section: "Practice"
+          href: practice_list.qmd
+          contents:
+            - practice/lab01-computing.qmd
+            - practice/lab02-excel.qmd
 
 from: markdown+emoji
 format:

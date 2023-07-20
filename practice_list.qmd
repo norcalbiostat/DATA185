@@ -1,7 +1,7 @@
 ---
-title: "Module Overview"
+title: "Practice Activities"
 listing:
-  contents: module_overview
+  contents: practice
   type: default
   sort: "date"
   sort-ui: true
