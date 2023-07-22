@@ -1,15 +1,9 @@
 [
   {
-    "listing": "/lesson_list.html",
-    "items": [
-      "/lessons/data_literacy.html",
-      "/lessons/welcome.html"
-    ]
-  },
-  {
     "listing": "/notes_list.html",
     "items": [
-      "/notes/cn00-welcome.html"
+      "/notes/cn00-welcome.html",
+      "/notes/cn01-data_literacy.html"
     ]
   },
   {

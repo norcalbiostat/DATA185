@@ -2,46 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/index.html</loc>
-    <lastmod>2023-07-20T02:53:21.066Z</lastmod>
-  </url>
-  <url>
-    <loc>https://norcalbiostat.github.io/DATA185/lessons/data_literacy.html</loc>
-    <lastmod>2023-07-20T02:48:45.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://norcalbiostat.github.io/DATA185/lessons/welcome.html</loc>
-    <lastmod>2023-07-20T02:48:46.882Z</lastmod>
-  </url>
-  <url>
-    <loc>https://norcalbiostat.github.io/DATA185/lesson_list.html</loc>
-    <lastmod>2023-07-20T02:53:29.412Z</lastmod>
+    <lastmod>2023-07-22T04:49:07.781Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/notes/cn00-welcome.html</loc>
-    <lastmod>2023-07-20T02:48:49.285Z</lastmod>
+    <lastmod>2023-07-22T04:47:30.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norcalbiostat.github.io/DATA185/notes/cn01-data literacy.html</loc>
+    <lastmod>2023-07-22T04:46:19.757Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/notes_list.html</loc>
-    <lastmod>2023-07-20T02:48:50.357Z</lastmod>
+    <lastmod>2023-07-22T04:47:26.733Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/practice/lab01-computing.html</loc>
-    <lastmod>2023-07-20T02:53:39.035Z</lastmod>
+    <lastmod>2023-07-22T04:49:12.332Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/practice/lab02-excel.html</loc>
-    <lastmod>2023-07-20T02:53:34.966Z</lastmod>
+    <lastmod>2023-07-22T04:46:23.707Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/practice_list.html</loc>
-    <lastmod>2023-07-20T02:53:36.410Z</lastmod>
+    <lastmod>2023-07-22T04:49:09.405Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/project.html</loc>
-    <lastmod>2023-07-20T02:53:22.725Z</lastmod>
+    <lastmod>2023-07-22T04:47:42.444Z</lastmod>
   </url>
   <url>
     <loc>https://norcalbiostat.github.io/DATA185/syllabus.html</loc>
-    <lastmod>2023-07-20T02:48:58.137Z</lastmod>
+    <lastmod>2023-07-22T04:46:27.647Z</lastmod>
   </url>
 </urlset>

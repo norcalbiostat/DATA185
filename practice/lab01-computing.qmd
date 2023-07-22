@@ -74,6 +74,14 @@ sentence and 3) the last sentence before the "Contents" block.
 3.  Why do you think you need to know this information?
 :::
 
+# Screen shots
+
+Screenshots are incredibly useful to convey a lot of information to another person, especially when you don't have the words to explain what you are seeing. There are two types of screenshots, one that takes an image of your entire window, and one that lets you outline an area and only "snip" that portion. 
+
+> fill this in
+
+
+
 # File types
 
 **File types** are also known as **file formats**, is the way computers
@@ -254,11 +262,10 @@ students.
 :::{.callout-note}
 #### 👉 Do this
 
-Follow (these instructions)[https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=8738] to install Excel on your computer.
+Follow [these instructions](https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=8738) to install Excel on your computer.  We will start learning Excel next week!
 
-If you do not have a Mac or Windows computer, come talk me about an alternative.
+If you do not have a Mac or Windows computer where you can install your own programs, come talk me about an alternative.
 
-You will start learning Excel next week!
 :::
 
 :::{.callout-tip}
@@ -266,4 +273,8 @@ You will start learning Excel next week!
 
 7. Submit a screenshot showing the Excel program open on your computer. 
 :::
+
+-----
+
+If you have finished this lab early (and submitted to Canvas) then continue to use lab time to work on the rest of the activities for this module. 
 

@@ -6,7 +6,7 @@ date: "2023-08-21"
 author: "Robin Donatello"
 format: 
   revealjs:
-    theme: blood
+    theme: moon
     transition: fade
     slide-number: true
 ---

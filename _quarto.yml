@@ -17,12 +17,14 @@ website:
     pinned: true
     background: "#0099CC"
     left:
-      - text: Learn
-        href: lesson_list.qmd
+      - text: Notes
+        href: notes_list.qmd
       - text: Practice
         href: practice_list.qmd
       - text: Apply
         href: project.qmd
+      - text: Learning R (TBD)
+        
 
         
     right: 
@@ -35,11 +37,11 @@ website:
       style: "floating"
       align: left
       contents:
-        - section: "Lessons"
-          href: lesson_list.qmd
+        - section: "Notes"
+          href: notes_list.qmd
           contents: 
-            - lessons/welcome.qmd
-            - lessons/data_literacy.qmd
+            - notes/cn00-welcome.qmd
+            - notes/cn01-data_literacy.qmd
         - section: "Practice"
           href: practice_list.qmd
           contents:

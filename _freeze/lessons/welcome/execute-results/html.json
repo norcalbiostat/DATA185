@@ -1,0 +1,14 @@
+{
+  "hash": "f1ff370f43a7a03d3a9d871c6bf18bfc",
+  "result": {
+    "markdown": "---\ntitle: \"Welcome!\"\ndate: 08/21/23\nformat: html\nexecute: \n  warning: false\n  message: false\n  echo: false\n---\n\n::: {.cell}\n\n:::\n\n```{=html}\n<img  src=\"welcome_img.jpg\" width=\"50%\" \n      alt=\"Welcome written in multiple languages\" \n      title = \"Welcome\"/>\n```\n\n\nWe start our adventure by discussing what we going to learn, why should we learn it, and the logistics of how are we going to learn it. We will make sure everyone can use the learning materials, and that it's clear to everyone what is required to succeed in this class.\n\n:::{.callout-tip}\n# Learning Objectives\n\n_By the end of this lesson, learners will be able to:_\n\n* [1] Start to form community of learners. \n* [2] Navigate the course materials, identify and understand the policies & code of conduct\n* [3] Give an example of the role of data in your life. [CO2e]\n* [4] Create a file organizational strategy, and install software. [CO1e]\n\n:::\n\t\n:::{.callout-tip}\n# Learning Objectives\n\n_By the end of this lesson, learners will be able to:_\n\n[1] Start to form community of learners. \n[2] Navigate the course materials, identify and understand the policies & code of conduct\n[3] Create a file organizational strategy, and install software. [CO1e]\n\n:::\n\t\n\t\t\n:::{.callout-note}\n# Essential Questions\n\n_Think about these questions as you engage with the materials in this module. Be prepared to share your responses in class._\n\nWho are we in this class? What do we have in common? What  ideas or perspectives do each of us bring? How can you be successful in this class? How does data influence our lives?\n\n:::\n\n\n\n----\n\n# Learning Activities\n\n\n## Read\n\n* [Welcome slides](../notes/cn00-welcome.html)\n* [Syllabus](../syllabus.html)\n\n## Watch/Listen\n\n\n## Practice\n\n[Lab 01: Intro to Computing for Data Science](/practice/lab01-computing.html)\n\n## Apply \n\n\n## Assess\n\n* Syllabus: policies\n* Slides: Instructor bio, class motivation, expectations\n* website: What is, isn't there. \n* R studio costs\n* What do you want me to know about you?\n* What learning outcome has you most excited?\n* What did you find the hardest about this week's content?\n* What is one topic you hope we'll cover this term?\n\n\n## Reflect\n\nIn class intros: Who are you, where are you from, why are you here? \nLJ -01: 321 bridge. What is Data Science? \n\n\n-----\n\n_Last updated: Fri Jul 21 2023 4:56:18 PM_\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -14,125 +14,6 @@
     "text": "Data are not neutral, nor are the algorithms that control how the data that governs our lives are used. Interpretations and recommendations made using data are subjective. This course introduces students how to start harnessing the power of data to intelligently cope with the requirements of citizenship, employment, and family to be prepared for a healthy, happy and productive life.\nStudents will practice collecting and wrangling data into a usable form, visualizing large data sets to discover patterns, representing data in a meaningful way, exploring varying interpretations of the data and results, and discussing potentials for misuse and abuse. This course promotes critical reflection on the ethical, social, cultural, and political dimensions of data as well as providing direct hands on experience with both spreadsheets, and the programming language R.\nStudents from all majors are welcome! No prior programming experience is expected, however basic ability to use a computer is needed. Additional help is available for students needing extra support with either/both computers or math.\n\n\n\n   2 hrs lecture, 2 hrs lab\n   MW 12 - 12:50PM HOLT 171\n   Th 12 - 1:50PM LANG 300\n\n\n\n\nGE B4 Ready or ALEKS PPL proctored assessment 46+ required.\n\n\n\nTBD Week 1\n\n\n\n\n   Dr. Robin Donatello\n   Holt Hall 202\n   rdonatello@csuchico.edu\n   Schedule an appointment\n\n\n\n\n\n\n\n\nTip\n\n\n\nYou can toggle dark mode by clicking the  button in the top right navigation bar."
   },
   {
-    "objectID": "lessons/data_literacy.html",
-    "href": "lessons/data_literacy.html",
-    "title": "Data Literacy!",
-    "section": "",
-    "text": "We start our adventure by meeting our learning community, discussing what we going to learn, why should we learn it, and the logistics of how are we going to learn it. We will make sure everyone can use the learning materials, and that it’s clear what is required to succeed in this class."
-  },
-  {
-    "objectID": "lessons/data_literacy.html#notes",
-    "href": "lessons/data_literacy.html#notes",
-    "title": "Data Literacy!",
-    "section": "Notes",
-    "text": "Notes"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#read",
-    "href": "lessons/data_literacy.html#read",
-    "title": "Data Literacy!",
-    "section": "Read",
-    "text": "Read\n\nWelcome slides\nSyllabus"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#watchlisten",
-    "href": "lessons/data_literacy.html#watchlisten",
-    "title": "Data Literacy!",
-    "section": "Watch/Listen",
-    "text": "Watch/Listen"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#practice",
-    "href": "lessons/data_literacy.html#practice",
-    "title": "Data Literacy!",
-    "section": "Practice",
-    "text": "Practice"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#apply",
-    "href": "lessons/data_literacy.html#apply",
-    "title": "Data Literacy!",
-    "section": "Apply",
-    "text": "Apply"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#assess",
-    "href": "lessons/data_literacy.html#assess",
-    "title": "Data Literacy!",
-    "section": "Assess",
-    "text": "Assess"
-  },
-  {
-    "objectID": "lessons/data_literacy.html#reflect",
-    "href": "lessons/data_literacy.html#reflect",
-    "title": "Data Literacy!",
-    "section": "Reflect",
-    "text": "Reflect\n\nLast updated: r format(Sys.time(), \"%a %b %d %Y %X\")"
-  },
-  {
-    "objectID": "lessons/welcome.html",
-    "href": "lessons/welcome.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "We start our adventure by meeting our learning community, discussing what we going to learn, why should we learn it, and the logistics of how are we going to learn it. We will make sure everyone can use the learning materials, and that it’s clear what is required to succeed in this class."
-  },
-  {
-    "objectID": "lessons/welcome.html#notes",
-    "href": "lessons/welcome.html#notes",
-    "title": "Welcome!",
-    "section": "Notes",
-    "text": "Notes"
-  },
-  {
-    "objectID": "lessons/welcome.html#read",
-    "href": "lessons/welcome.html#read",
-    "title": "Welcome!",
-    "section": "Read",
-    "text": "Read\n\nWelcome slides\nSyllabus"
-  },
-  {
-    "objectID": "lessons/welcome.html#watchlisten",
-    "href": "lessons/welcome.html#watchlisten",
-    "title": "Welcome!",
-    "section": "Watch/Listen",
-    "text": "Watch/Listen"
-  },
-  {
-    "objectID": "lessons/welcome.html#practice",
-    "href": "lessons/welcome.html#practice",
-    "title": "Welcome!",
-    "section": "Practice",
-    "text": "Practice"
-  },
-  {
-    "objectID": "lessons/welcome.html#apply",
-    "href": "lessons/welcome.html#apply",
-    "title": "Welcome!",
-    "section": "Apply",
-    "text": "Apply"
-  },
-  {
-    "objectID": "lessons/welcome.html#assess",
-    "href": "lessons/welcome.html#assess",
-    "title": "Welcome!",
-    "section": "Assess",
-    "text": "Assess"
-  },
-  {
-    "objectID": "lessons/welcome.html#reflect",
-    "href": "lessons/welcome.html#reflect",
-    "title": "Welcome!",
-    "section": "Reflect",
-    "text": "Reflect\n\nLast updated: r format(Sys.time(), \"%a %b %d %Y %X\")"
-  },
-  {
-    "objectID": "lesson_list.html",
-    "href": "lesson_list.html",
-    "title": "Lesson Overview",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nData Literacy!\n\n\n\n\n\n\n\n\n\n\n\n\nAug 21, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWelcome!\n\n\n\n\n\n\n\n\n\n\n\n\nAug 21, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "notes/cn00-welcome.html#dr.-robin-donatello-sheher",
     "href": "notes/cn00-welcome.html#dr.-robin-donatello-sheher",
     "title": "Welcome to MATH 185",
@@ -263,7 +144,7 @@
     "href": "notes_list.html",
     "title": "Course Notes",
     "section": "",
-    "text": "Date\n\n\nTopic\n\n\nDescription\n\n\n\n\n\n\nAug 21, 2023\n\n\nWelcome to MATH 185\n\n\nCourse Overview slides\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTopic\n\n\nDescription\n\n\n\n\n\n\nAug 21, 2023\n\n\nWelcome to MATH 185\n\n\nCourse Overview slides\n\n\n\n\nAug 23, 2023\n\n\nData Literacy\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "practice/lab01-computing.html",
